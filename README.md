@@ -15,7 +15,7 @@ To run this project, install it localy using npm:
 $ git clone https://github.com/SergeyBersenev98/PokeAPI
 $ cd react-avito/
 $ npm install
-$ npm run dev
+$ npm start
 ```
 
 Then open your browser on http://localhost:3000/

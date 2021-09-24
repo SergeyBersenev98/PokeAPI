@@ -13,7 +13,7 @@ To run this project, install it localy using npm:
 
 ```shell
 $ git clone https://github.com/SergeyBersenev98/PokeAPI
-$ cd PokeAPI/
+$ ./cd PokeAPI
 $ npm install
 $ npm start
 ```
